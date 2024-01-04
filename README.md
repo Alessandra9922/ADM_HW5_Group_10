@@ -14,7 +14,7 @@ The repository contains the following key files and folders:
   
 - `CommandLine.sh`: Bash script containing solution for command line question 
 
-- `output_bash_script.png`: Screenshot of the outpunt given by the bash script run on the out Unix local system
+- `output_bash_script.png`: Screenshot of the outpunt given by the bash script run on our Unix local system
 
 ## Analysis Summary
 
