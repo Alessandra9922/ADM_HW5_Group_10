@@ -20,7 +20,7 @@ The repository contains the following key files and folders:
 
 The analysis focused on:
 
-- Constracting two graphs doing the data pre-processing
+- Constructing two graphs doing the data pre-processing
 - Backend develop defining the functionalities of the system:
    - Graph's features
    - Nodes' contribution
