@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the path to the citation graph CSV file
-csv_citation_graph="File generated/citation_graph.csv"
+csv_citation_graph='File generated/citation_graph.csv'
 
 # Name of python script to be executed
 script_python_Q1=$(cat <<-END
@@ -58,7 +58,7 @@ awk -F',' 'NR > 1 {count[$2]++} END {
     }
     avg = total / length(count)
     print "Average: " avg ", Max: " max ", Min: " min
-}' $csv_citation_graph
+}' "$csv_citation_graph"
 
 # Calculate out-degree statistics
 echo "Out-degree (citations made) statistics:"
@@ -73,7 +73,7 @@ awk -F',' 'NR > 1 {count[$1]++} END {
     }
     avg = total / length(count)
     print "Average: " avg ", Max: " max ", Min: " min
-}' $csv_citation_graph
+}' "$csv_citation_graph"
 
 script_python_Q3=$(cat <<-END
 
