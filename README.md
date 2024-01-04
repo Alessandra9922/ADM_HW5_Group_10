@@ -34,10 +34,9 @@ The analysis focused on:
    - Visualize the disconnected graph
    - Visualize the communities
 
-
 The repository contains all code and output to replicate the analysis described in the homework.
 
-## Authors: Group 10
+## Authors - group 10
 
 <div style="float: left;">
     <table>
