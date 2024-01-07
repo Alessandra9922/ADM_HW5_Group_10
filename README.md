@@ -47,9 +47,9 @@ The repository contains all code and output to replicate the analysis described 
             <th>Email</th>
         </tr>
         <tr>
-            <td>Habibul Bashar</td>
+            <td>Syed Habibul Bashar</td>
             <td>HabibAIUB</td>
-            <td></td>
+            <td>2102742</td>
             <td>habibulbashar22@gmail.com</td>
         </tr>
         <tr>
